@@ -1,2 +1,2 @@
-# gamePlay
+# game
 app de jogo
